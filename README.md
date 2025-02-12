@@ -29,5 +29,5 @@ Libraries:
 The course aims to show what just-in-time compiler is and how we can use it on GPU Acceleration and Efficient Memory Usage on GPU.
 
 
-![CUDA Python](https://developer.nvidia.com/sites/default/files/akamai/cuda/images/CUDA-Logo.png)
+![CUDA Python](https://www.nvidia.com/content/nvidiaGDC/us/en_US/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container_412055486/nv_image.coreimg.100.630.png/1703060329095/nvidia-logo-horz.png)
 
