@@ -1,5 +1,7 @@
 # Fundamentals of Accelerated Computing with CUDA Python
 
+![CUDA Python](https://www.nvidia.com/content/nvidiaGDC/us/en_US/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container_412055486/nv_image.coreimg.100.630.png/1703060329095/nvidia-logo-horz.png)
+
 Welcome to the **Fundamentals of Accelerated Computing with CUDA Python** repository! This repository contains all the materials, code samples, and exercises for learning the basics of accelerated computing using CUDA and Python.
 
 ## Table of Contents
@@ -29,5 +31,4 @@ Libraries:
 The course aims to show what just-in-time compiler is and how we can use it on GPU Acceleration and Efficient Memory Usage on GPU.
 
 
-![CUDA Python](https://www.nvidia.com/content/nvidiaGDC/us/en_US/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container_412055486/nv_image.coreimg.100.630.png/1703060329095/nvidia-logo-horz.png)
 
